@@ -1,0 +1,2247 @@
+[
+  {
+    "casualties": 1710,
+    "date": "2013-06-16",
+    "economic_damage_usd": 211574566.47,
+    "location": "Odisha",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 494,
+    "date": "2007-03-07",
+    "economic_damage_usd": 133974656.88,
+    "location": "West Bengal",
+    "type": "Flood"
+  },
+  {
+    "casualties": 2461,
+    "date": "2018-03-04",
+    "economic_damage_usd": 215253766.52,
+    "location": "Tamil Nadu",
+    "magnitude": 6,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 521,
+    "date": "2000-02-08",
+    "economic_damage_usd": 294000408.48,
+    "location": "Tamil Nadu",
+    "type": "Drought"
+  },
+  {
+    "casualties": 3960,
+    "date": "2003-11-04",
+    "economic_damage_usd": 487666939.73,
+    "location": "Kerala",
+    "magnitude": 4.6,
+    "type": "Flood"
+  },
+  {
+    "casualties": 4098,
+    "date": "2023-06-02",
+    "economic_damage_usd": 219718425.95,
+    "location": "West Bengal",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3811,
+    "date": "2022-10-28",
+    "economic_damage_usd": 743836788.83,
+    "location": "Andhra Pradesh",
+    "magnitude": 7.7,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3506,
+    "date": "2017-03-20",
+    "economic_damage_usd": 208694172.92,
+    "location": "Bihar",
+    "magnitude": 5.6,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3679,
+    "date": "2009-11-06",
+    "economic_damage_usd": 419032920.18,
+    "location": "Maharashtra",
+    "magnitude": 4.2,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1514,
+    "date": "2022-01-10",
+    "economic_damage_usd": 625405751.55,
+    "location": "Assam",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1884,
+    "date": "2001-06-05",
+    "economic_damage_usd": 460828432.64,
+    "location": "West Bengal",
+    "magnitude": 4.7,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 350,
+    "date": "2007-07-12",
+    "economic_damage_usd": 756173491.8,
+    "location": "Kerala",
+    "magnitude": 5.9,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3665,
+    "date": "2014-05-24",
+    "economic_damage_usd": 405715319.73,
+    "location": "Kerala",
+    "magnitude": 6.4,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2509,
+    "date": "2017-09-23",
+    "economic_damage_usd": 258568724.22,
+    "location": "Andhra Pradesh",
+    "magnitude": 4.6,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 339,
+    "date": "2000-03-16",
+    "economic_damage_usd": 782471937.7,
+    "location": "Maharashtra",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 494,
+    "date": "2011-10-29",
+    "economic_damage_usd": 426871026.4,
+    "location": "Tamil Nadu",
+    "type": "Flood"
+  },
+  {
+    "casualties": 4690,
+    "date": "2014-02-25",
+    "economic_damage_usd": 816686477.36,
+    "location": "Karnataka",
+    "magnitude": 9,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 2598,
+    "date": "2003-02-10",
+    "economic_damage_usd": 266816308.68,
+    "location": "Assam",
+    "magnitude": 4.7,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1461,
+    "date": "2006-10-03",
+    "economic_damage_usd": 692555349.69,
+    "location": "Tamil Nadu",
+    "magnitude": 6.4,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4042,
+    "date": "2006-10-06",
+    "economic_damage_usd": 355944444,
+    "location": "Karnataka",
+    "magnitude": 8.3,
+    "type": "Drought"
+  },
+  {
+    "casualties": 4579,
+    "date": "2014-08-20",
+    "economic_damage_usd": 399861888.19,
+    "location": "Maharashtra",
+    "type": "Flood"
+  },
+  {
+    "casualties": 2505,
+    "date": "2008-02-26",
+    "economic_damage_usd": 464077130.03,
+    "location": "Maharashtra",
+    "magnitude": 7.3,
+    "type": "Flood"
+  },
+  {
+    "casualties": 4160,
+    "date": "2012-10-21",
+    "economic_damage_usd": 647342093.64,
+    "location": "Odisha",
+    "type": "Flood"
+  },
+  {
+    "casualties": 1667,
+    "date": "2023-03-20",
+    "economic_damage_usd": 984419157.15,
+    "location": "Andhra Pradesh",
+    "magnitude": 4.1,
+    "type": "Drought"
+  },
+  {
+    "casualties": 2375,
+    "date": "2013-11-28",
+    "economic_damage_usd": 710854278.15,
+    "location": "Tamil Nadu",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 387,
+    "date": "2019-06-23",
+    "economic_damage_usd": 697574043.63,
+    "location": "Andhra Pradesh",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4614,
+    "date": "2005-02-28",
+    "economic_damage_usd": 222513542.36,
+    "location": "West Bengal",
+    "type": "Drought"
+  },
+  {
+    "casualties": 938,
+    "date": "2014-01-12",
+    "economic_damage_usd": 481773222.71,
+    "location": "Assam",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4174,
+    "date": "2005-01-25",
+    "economic_damage_usd": 336246076.7,
+    "location": "Tamil Nadu",
+    "magnitude": 7.1,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1059,
+    "date": "2008-08-28",
+    "economic_damage_usd": 884338016.8,
+    "location": "Kerala",
+    "type": "Drought"
+  },
+  {
+    "casualties": 2201,
+    "date": "2001-08-23",
+    "economic_damage_usd": 63270201.98,
+    "location": "Tamil Nadu",
+    "magnitude": 6.1,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 2289,
+    "date": "2023-01-24",
+    "economic_damage_usd": 960117246.94,
+    "location": "Andhra Pradesh",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1303,
+    "date": "2011-02-21",
+    "economic_damage_usd": 358581015.58,
+    "location": "Tamil Nadu",
+    "type": "Flood"
+  },
+  {
+    "casualties": 315,
+    "date": "2012-04-18",
+    "economic_damage_usd": 980442332.15,
+    "location": "Gujarat",
+    "magnitude": 5.4,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 715,
+    "date": "2001-04-25",
+    "economic_damage_usd": 763438410.09,
+    "location": "Kerala",
+    "magnitude": 5.6,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4207,
+    "date": "2015-08-08",
+    "economic_damage_usd": 559108266.22,
+    "location": "Kerala",
+    "magnitude": 4.1,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 2689,
+    "date": "2009-10-29",
+    "economic_damage_usd": 678016439.56,
+    "location": "Karnataka",
+    "magnitude": 7,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3432,
+    "date": "2021-03-28",
+    "economic_damage_usd": 292303185.32,
+    "location": "Tamil Nadu",
+    "magnitude": 4.3,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 562,
+    "date": "2016-08-29",
+    "economic_damage_usd": 256937587.16,
+    "location": "Karnataka",
+    "type": "Flood"
+  },
+  {
+    "casualties": 4368,
+    "date": "2021-10-04",
+    "economic_damage_usd": 392986247.98,
+    "location": "Karnataka",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 522,
+    "date": "2023-12-07",
+    "economic_damage_usd": 308383016.94,
+    "location": "Maharashtra",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2779,
+    "date": "2001-06-21",
+    "economic_damage_usd": 351539538.53,
+    "location": "Assam",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2694,
+    "date": "2019-09-02",
+    "economic_damage_usd": 218386349.44,
+    "location": "Gujarat",
+    "type": "Flood"
+  },
+  {
+    "casualties": 3226,
+    "date": "2012-11-05",
+    "economic_damage_usd": 431530094.44,
+    "location": "West Bengal",
+    "type": "Flood"
+  },
+  {
+    "casualties": 278,
+    "date": "2023-09-11",
+    "economic_damage_usd": 300298847.14,
+    "location": "Tamil Nadu",
+    "magnitude": 4.3,
+    "type": "Drought"
+  },
+  {
+    "casualties": 3979,
+    "date": "2014-01-28",
+    "economic_damage_usd": 136146483.71,
+    "location": "Bihar",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1331,
+    "date": "2015-06-29",
+    "economic_damage_usd": 30932008,
+    "location": "Maharashtra",
+    "magnitude": 8.3,
+    "type": "Flood"
+  },
+  {
+    "casualties": 2478,
+    "date": "2011-10-27",
+    "economic_damage_usd": 319447212.7,
+    "location": "Assam",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 189,
+    "date": "2001-05-01",
+    "economic_damage_usd": 871845723.67,
+    "location": "Tamil Nadu",
+    "magnitude": 8.6,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1112,
+    "date": "2017-09-19",
+    "economic_damage_usd": 735650824.34,
+    "location": "Kerala",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 598,
+    "date": "2001-01-17",
+    "economic_damage_usd": 619133658.32,
+    "location": "Gujarat",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 2287,
+    "date": "2008-05-13",
+    "economic_damage_usd": 412883262.23,
+    "location": "Odisha",
+    "magnitude": 5.3,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 676,
+    "date": "2008-05-08",
+    "economic_damage_usd": 510883592.88,
+    "location": "Kerala",
+    "magnitude": 6.4,
+    "type": "Flood"
+  },
+  {
+    "casualties": 2164,
+    "date": "2014-11-24",
+    "economic_damage_usd": 598496665.05,
+    "location": "Andhra Pradesh",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4928,
+    "date": "2017-06-14",
+    "economic_damage_usd": 295239339.84,
+    "location": "West Bengal",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2896,
+    "date": "2018-05-16",
+    "economic_damage_usd": 756442354.16,
+    "location": "Tamil Nadu",
+    "magnitude": 4.6,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2324,
+    "date": "2001-01-11",
+    "economic_damage_usd": 739786432.21,
+    "location": "Odisha",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2166,
+    "date": "2002-10-07",
+    "economic_damage_usd": 290413487.99,
+    "location": "West Bengal",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1719,
+    "date": "2002-01-22",
+    "economic_damage_usd": 772562825.68,
+    "location": "Assam",
+    "magnitude": 4.3,
+    "type": "Drought"
+  },
+  {
+    "casualties": 45,
+    "date": "2005-10-07",
+    "economic_damage_usd": 57420563.05,
+    "location": "Assam",
+    "magnitude": 8.9,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4021,
+    "date": "2017-05-11",
+    "economic_damage_usd": 55724269.97,
+    "location": "Tamil Nadu",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4260,
+    "date": "2017-02-23",
+    "economic_damage_usd": 236853021.35,
+    "location": "Andhra Pradesh",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4435,
+    "date": "2007-08-05",
+    "economic_damage_usd": 373601743.46,
+    "location": "Bihar",
+    "magnitude": 6.7,
+    "type": "Drought"
+  },
+  {
+    "casualties": 131,
+    "date": "2015-04-01",
+    "economic_damage_usd": 598418770.39,
+    "location": "Odisha",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 351,
+    "date": "2018-04-30",
+    "economic_damage_usd": 849030561.77,
+    "location": "Gujarat",
+    "magnitude": 7.3,
+    "type": "Flood"
+  },
+  {
+    "casualties": 1445,
+    "date": "2008-09-21",
+    "economic_damage_usd": 595772763.1,
+    "location": "Tamil Nadu",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3146,
+    "date": "2006-07-27",
+    "economic_damage_usd": 797134591.23,
+    "location": "Andhra Pradesh",
+    "magnitude": 6.3,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4776,
+    "date": "2004-05-06",
+    "economic_damage_usd": 143691894.13,
+    "location": "Gujarat",
+    "type": "Flood"
+  },
+  {
+    "casualties": 2680,
+    "date": "2012-08-16",
+    "economic_damage_usd": 858856920.95,
+    "location": "Karnataka",
+    "magnitude": 4.7,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1206,
+    "date": "2005-12-06",
+    "economic_damage_usd": 920473948.12,
+    "location": "Maharashtra",
+    "type": "Drought"
+  },
+  {
+    "casualties": 3340,
+    "date": "2003-12-05",
+    "economic_damage_usd": 314974829.06,
+    "location": "Karnataka",
+    "magnitude": 5.3,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3521,
+    "date": "2019-10-17",
+    "economic_damage_usd": 995888541.48,
+    "location": "Andhra Pradesh",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2093,
+    "date": "2006-10-29",
+    "economic_damage_usd": 62062298.4,
+    "location": "Karnataka",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2295,
+    "date": "2016-09-12",
+    "economic_damage_usd": 897561848.98,
+    "location": "Assam",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4361,
+    "date": "2009-07-15",
+    "economic_damage_usd": 652566672.41,
+    "location": "Kerala",
+    "magnitude": 6.3,
+    "type": "Drought"
+  },
+  {
+    "casualties": 1568,
+    "date": "2002-07-07",
+    "economic_damage_usd": 965969913.08,
+    "location": "Andhra Pradesh",
+    "type": "Flood"
+  },
+  {
+    "casualties": 3674,
+    "date": "2018-06-18",
+    "economic_damage_usd": 18877711.97,
+    "location": "Odisha",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1048,
+    "date": "2000-01-20",
+    "economic_damage_usd": 337330712.03,
+    "location": "Kerala",
+    "magnitude": 7.9,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1576,
+    "date": "2019-07-14",
+    "economic_damage_usd": 771350165.99,
+    "location": "Bihar",
+    "type": "Flood"
+  },
+  {
+    "casualties": 2418,
+    "date": "2024-09-08",
+    "economic_damage_usd": 395955846.35,
+    "location": "Karnataka",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 4157,
+    "date": "2020-08-28",
+    "economic_damage_usd": 486581892.64,
+    "location": "Odisha",
+    "magnitude": 7.7,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 720,
+    "date": "2009-06-27",
+    "economic_damage_usd": 982428286.06,
+    "location": "Odisha",
+    "magnitude": 8,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 2159,
+    "date": "2022-12-16",
+    "economic_damage_usd": 34628088.14,
+    "location": "Maharashtra",
+    "magnitude": 5.3,
+    "type": "Drought"
+  },
+  {
+    "casualties": 4278,
+    "date": "2007-08-22",
+    "economic_damage_usd": 507462246.51,
+    "location": "Karnataka",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3823,
+    "date": "2001-01-13",
+    "economic_damage_usd": 853550015.49,
+    "location": "Bihar",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 744,
+    "date": "2003-07-09",
+    "economic_damage_usd": 531887329.07,
+    "location": "Kerala",
+    "magnitude": 7.5,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3640,
+    "date": "2004-07-11",
+    "economic_damage_usd": 155673981.23,
+    "location": "Gujarat",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1864,
+    "date": "2014-05-04",
+    "economic_damage_usd": 177968095.35,
+    "location": "West Bengal",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 431,
+    "date": "2023-09-16",
+    "economic_damage_usd": 528448519.71,
+    "location": "Maharashtra",
+    "magnitude": 4.2,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2388,
+    "date": "2007-07-09",
+    "economic_damage_usd": 916708310,
+    "location": "Maharashtra",
+    "magnitude": 4.3,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 2477,
+    "date": "2019-04-19",
+    "economic_damage_usd": 735299445.61,
+    "location": "Maharashtra",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3766,
+    "date": "2024-07-11",
+    "economic_damage_usd": 576195649.7,
+    "location": "Karnataka",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 228,
+    "date": "2023-11-24",
+    "economic_damage_usd": 308765189.33,
+    "location": "Karnataka",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4254,
+    "date": "2010-08-15",
+    "economic_damage_usd": 363369645.75,
+    "location": "Bihar",
+    "magnitude": 8.7,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1595,
+    "date": "2000-11-17",
+    "economic_damage_usd": 955204210.49,
+    "location": "Karnataka",
+    "magnitude": 5.1,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3071,
+    "date": "2018-05-03",
+    "economic_damage_usd": 715039477.68,
+    "location": "Andhra Pradesh",
+    "magnitude": 4.9,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 813,
+    "date": "2016-09-14",
+    "economic_damage_usd": 45949013.39,
+    "location": "Maharashtra",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2995,
+    "date": "2022-08-06",
+    "economic_damage_usd": 853457082.2,
+    "location": "Gujarat",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3696,
+    "date": "2009-06-04",
+    "economic_damage_usd": 322505579.77,
+    "location": "Bihar",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4309,
+    "date": "2008-05-25",
+    "economic_damage_usd": 533410865.72,
+    "location": "Bihar",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3944,
+    "date": "2019-11-18",
+    "economic_damage_usd": 35620358.86,
+    "location": "Andhra Pradesh",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 2227,
+    "date": "2020-08-30",
+    "economic_damage_usd": 707476607.01,
+    "location": "West Bengal",
+    "magnitude": 7.6,
+    "type": "Flood"
+  },
+  {
+    "casualties": 3149,
+    "date": "2019-05-12",
+    "economic_damage_usd": 224389486.95,
+    "location": "Andhra Pradesh",
+    "magnitude": 8.7,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1207,
+    "date": "2000-11-07",
+    "economic_damage_usd": 173829070.11,
+    "location": "Karnataka",
+    "type": "Flood"
+  },
+  {
+    "casualties": 1603,
+    "date": "2008-08-25",
+    "economic_damage_usd": 882438064.9,
+    "location": "Assam",
+    "magnitude": 7.8,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1944,
+    "date": "2005-02-08",
+    "economic_damage_usd": 180156274.95,
+    "location": "Maharashtra",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 3924,
+    "date": "2009-08-14",
+    "economic_damage_usd": 254399611.84,
+    "location": "Kerala",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2626,
+    "date": "2003-05-03",
+    "economic_damage_usd": 681966584.51,
+    "location": "Assam",
+    "magnitude": 7.3,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2967,
+    "date": "2006-07-25",
+    "economic_damage_usd": 306209531.41,
+    "location": "Andhra Pradesh",
+    "magnitude": 7.4,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1135,
+    "date": "2014-03-09",
+    "economic_damage_usd": 345787170.16,
+    "location": "Karnataka",
+    "magnitude": 7.9,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 1873,
+    "date": "2004-06-29",
+    "economic_damage_usd": 938042197.11,
+    "location": "Andhra Pradesh",
+    "magnitude": 7.2,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 20,
+    "date": "2011-03-14",
+    "economic_damage_usd": 58251984.71,
+    "location": "Kerala",
+    "magnitude": 8.6,
+    "type": "Flood"
+  },
+  {
+    "casualties": 645,
+    "date": "2011-10-08",
+    "economic_damage_usd": 390982154.9,
+    "location": "Maharashtra",
+    "magnitude": 5,
+    "type": "Drought"
+  },
+  {
+    "casualties": 1414,
+    "date": "2019-09-15",
+    "economic_damage_usd": 436079194.17,
+    "location": "Assam",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4237,
+    "date": "2011-04-02",
+    "economic_damage_usd": 384068673.93,
+    "location": "Odisha",
+    "magnitude": 8.2,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 743,
+    "date": "2022-02-28",
+    "economic_damage_usd": 790009221.2,
+    "location": "Gujarat",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 370,
+    "date": "2005-11-26",
+    "economic_damage_usd": 835821693.92,
+    "location": "Maharashtra",
+    "type": "Drought"
+  },
+  {
+    "casualties": 583,
+    "date": "2005-02-20",
+    "economic_damage_usd": 745690251.9,
+    "location": "Kerala",
+    "magnitude": 5.6,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3458,
+    "date": "2012-11-27",
+    "economic_damage_usd": 8728673.91,
+    "location": "Andhra Pradesh",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 4444,
+    "date": "2013-11-14",
+    "economic_damage_usd": 318315827.02,
+    "location": "Karnataka",
+    "magnitude": 7.7,
+    "type": "Drought"
+  },
+  {
+    "casualties": 3369,
+    "date": "2012-05-25",
+    "economic_damage_usd": 258551482.33,
+    "location": "Andhra Pradesh",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2982,
+    "date": "2002-03-14",
+    "economic_damage_usd": 151606124.6,
+    "location": "Assam",
+    "magnitude": 7.3,
+    "type": "Drought"
+  },
+  {
+    "casualties": 3736,
+    "date": "2004-07-21",
+    "economic_damage_usd": 148841543.39,
+    "location": "Maharashtra",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4701,
+    "date": "2008-01-25",
+    "economic_damage_usd": 812931722.03,
+    "location": "Andhra Pradesh",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4878,
+    "date": "2020-12-20",
+    "economic_damage_usd": 286542304.01,
+    "location": "Kerala",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4327,
+    "date": "2022-12-26",
+    "economic_damage_usd": 293532762.5,
+    "location": "Kerala",
+    "type": "Flood"
+  },
+  {
+    "casualties": 2515,
+    "date": "2001-07-15",
+    "economic_damage_usd": 21702657.65,
+    "location": "Karnataka",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1935,
+    "date": "2001-05-01",
+    "economic_damage_usd": 109114568.32,
+    "location": "Bihar",
+    "magnitude": 7.7,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 537,
+    "date": "2017-05-16",
+    "economic_damage_usd": 379809895.29,
+    "location": "Tamil Nadu",
+    "magnitude": 4.1,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 395,
+    "date": "2018-01-21",
+    "economic_damage_usd": 647659585.35,
+    "location": "Tamil Nadu",
+    "magnitude": 4.6,
+    "type": "Drought"
+  },
+  {
+    "casualties": 3559,
+    "date": "2012-11-10",
+    "economic_damage_usd": 602121549.08,
+    "location": "Assam",
+    "magnitude": 8.4,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 1910,
+    "date": "2018-01-21",
+    "economic_damage_usd": 88468272.57,
+    "location": "Odisha",
+    "magnitude": 4.6,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 4841,
+    "date": "2021-11-14",
+    "economic_damage_usd": 629109654.14,
+    "location": "Assam",
+    "magnitude": 7.7,
+    "type": "Flood"
+  },
+  {
+    "casualties": 771,
+    "date": "2018-12-09",
+    "economic_damage_usd": 763567913.14,
+    "location": "West Bengal",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 947,
+    "date": "2007-05-14",
+    "economic_damage_usd": 174800844.6,
+    "location": "Maharashtra",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4731,
+    "date": "2013-07-21",
+    "economic_damage_usd": 738258343.45,
+    "location": "Andhra Pradesh",
+    "type": "Drought"
+  },
+  {
+    "casualties": 237,
+    "date": "2016-03-21",
+    "economic_damage_usd": 394977344.62,
+    "location": "Andhra Pradesh",
+    "magnitude": 9,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 3907,
+    "date": "2011-06-02",
+    "economic_damage_usd": 572587731.57,
+    "location": "Kerala",
+    "type": "Drought"
+  },
+  {
+    "casualties": 2114,
+    "date": "2002-04-18",
+    "economic_damage_usd": 220084477.91,
+    "location": "Assam",
+    "magnitude": 5,
+    "type": "Flood"
+  },
+  {
+    "casualties": 285,
+    "date": "2012-06-21",
+    "economic_damage_usd": 952445758.87,
+    "location": "Odisha",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 617,
+    "date": "2015-08-27",
+    "economic_damage_usd": 879101806.62,
+    "location": "Kerala",
+    "magnitude": 6.6,
+    "type": "Flood"
+  },
+  {
+    "casualties": 463,
+    "date": "2015-03-04",
+    "economic_damage_usd": 511359172.09,
+    "location": "Kerala",
+    "type": "Drought"
+  },
+  {
+    "casualties": 4146,
+    "date": "2007-06-25",
+    "economic_damage_usd": 315374850.92,
+    "location": "Gujarat",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1267,
+    "date": "2009-09-20",
+    "economic_damage_usd": 140951491.64,
+    "location": "Gujarat",
+    "magnitude": 6.8,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 984,
+    "date": "2007-07-18",
+    "economic_damage_usd": 718233943.83,
+    "location": "Assam",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3667,
+    "date": "2010-04-21",
+    "economic_damage_usd": 402492217.58,
+    "location": "Bihar",
+    "magnitude": 8.6,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2947,
+    "date": "2012-05-16",
+    "economic_damage_usd": 787339842.45,
+    "location": "Assam",
+    "magnitude": 8.6,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2111,
+    "date": "2006-03-29",
+    "economic_damage_usd": 490383158.91,
+    "location": "Tamil Nadu",
+    "magnitude": 6.7,
+    "type": "Flood"
+  },
+  {
+    "casualties": 761,
+    "date": "2006-04-01",
+    "economic_damage_usd": 652226565.76,
+    "location": "Assam",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4134,
+    "date": "2024-05-11",
+    "economic_damage_usd": 879926136.69,
+    "location": "Tamil Nadu",
+    "type": "Flood"
+  },
+  {
+    "casualties": 4545,
+    "date": "2021-03-30",
+    "economic_damage_usd": 546339724.98,
+    "location": "Assam",
+    "magnitude": 8,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1134,
+    "date": "2022-01-04",
+    "economic_damage_usd": 287479594.27,
+    "location": "West Bengal",
+    "magnitude": 7.4,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 474,
+    "date": "2012-08-22",
+    "economic_damage_usd": 183008603.82,
+    "location": "Kerala",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4541,
+    "date": "2020-02-29",
+    "economic_damage_usd": 174775144.84,
+    "location": "Kerala",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2721,
+    "date": "2022-03-18",
+    "economic_damage_usd": 956113545.25,
+    "location": "West Bengal",
+    "magnitude": 5.7,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1835,
+    "date": "2020-01-25",
+    "economic_damage_usd": 461544639.94,
+    "location": "Odisha",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1241,
+    "date": "2020-04-30",
+    "economic_damage_usd": 695878459.86,
+    "location": "Andhra Pradesh",
+    "type": "Drought"
+  },
+  {
+    "casualties": 2540,
+    "date": "2003-05-02",
+    "economic_damage_usd": 337135380.21,
+    "location": "Tamil Nadu",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 1461,
+    "date": "2008-07-01",
+    "economic_damage_usd": 483134887.48,
+    "location": "Odisha",
+    "magnitude": 6.6,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3899,
+    "date": "2000-09-30",
+    "economic_damage_usd": 556089388.55,
+    "location": "Andhra Pradesh",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 2520,
+    "date": "2010-05-17",
+    "economic_damage_usd": 17446877.5,
+    "location": "Kerala",
+    "magnitude": 5.8,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4808,
+    "date": "2006-03-19",
+    "economic_damage_usd": 570395044.72,
+    "location": "Karnataka",
+    "magnitude": 5.7,
+    "type": "Flood"
+  },
+  {
+    "casualties": 1802,
+    "date": "2007-10-14",
+    "economic_damage_usd": 651898744.17,
+    "location": "Andhra Pradesh",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1355,
+    "date": "2009-07-07",
+    "economic_damage_usd": 294801124.39,
+    "location": "Maharashtra",
+    "type": "Flood"
+  },
+  {
+    "casualties": 3488,
+    "date": "2011-01-22",
+    "economic_damage_usd": 375172811.96,
+    "location": "Tamil Nadu",
+    "magnitude": 6.2,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3771,
+    "date": "2006-02-14",
+    "economic_damage_usd": 568129695.46,
+    "location": "Kerala",
+    "magnitude": 5.4,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 770,
+    "date": "2018-08-13",
+    "economic_damage_usd": 676809192.62,
+    "location": "Karnataka",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 996,
+    "date": "2002-06-27",
+    "economic_damage_usd": 234154057.82,
+    "location": "Odisha",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 690,
+    "date": "2000-09-18",
+    "economic_damage_usd": 698265949.43,
+    "location": "Tamil Nadu",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4947,
+    "date": "2018-07-26",
+    "economic_damage_usd": 433703164.36,
+    "location": "Odisha",
+    "magnitude": 5.8,
+    "type": "Flood"
+  },
+  {
+    "casualties": 542,
+    "date": "2001-10-31",
+    "economic_damage_usd": 680113921.08,
+    "location": "Kerala",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 3333,
+    "date": "2018-02-19",
+    "economic_damage_usd": 407626071.87,
+    "location": "Kerala",
+    "type": "Flood"
+  },
+  {
+    "casualties": 2678,
+    "date": "2009-05-21",
+    "economic_damage_usd": 464350047.19,
+    "location": "West Bengal",
+    "type": "Drought"
+  },
+  {
+    "casualties": 112,
+    "date": "2011-05-23",
+    "economic_damage_usd": 990302045.81,
+    "location": "Maharashtra",
+    "magnitude": 6.5,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4818,
+    "date": "2012-03-24",
+    "economic_damage_usd": 775205562.74,
+    "location": "Tamil Nadu",
+    "magnitude": 4.7,
+    "type": "Flood"
+  },
+  {
+    "casualties": 4914,
+    "date": "2001-06-15",
+    "economic_damage_usd": 784213782.5,
+    "location": "Assam",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1982,
+    "date": "2021-10-18",
+    "economic_damage_usd": 88200200.93,
+    "location": "Assam",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3883,
+    "date": "2011-05-31",
+    "economic_damage_usd": 229433256.36,
+    "location": "Kerala",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4153,
+    "date": "2011-06-14",
+    "economic_damage_usd": 641389363.27,
+    "location": "Bihar",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3330,
+    "date": "2016-12-08",
+    "economic_damage_usd": 966599606.52,
+    "location": "Bihar",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 487,
+    "date": "2007-06-28",
+    "economic_damage_usd": 533617720.74,
+    "location": "Karnataka",
+    "magnitude": 5.9,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 641,
+    "date": "2021-11-17",
+    "economic_damage_usd": 621271703.8,
+    "location": "Tamil Nadu",
+    "magnitude": 7.3,
+    "type": "Drought"
+  },
+  {
+    "casualties": 1676,
+    "date": "2022-11-11",
+    "economic_damage_usd": 195840071.69,
+    "location": "West Bengal",
+    "magnitude": 8.7,
+    "type": "Flood"
+  },
+  {
+    "casualties": 2354,
+    "date": "2021-12-09",
+    "economic_damage_usd": 713420640.98,
+    "location": "Andhra Pradesh",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3540,
+    "date": "2014-12-22",
+    "economic_damage_usd": 625996951.59,
+    "location": "Tamil Nadu",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 958,
+    "date": "2012-04-19",
+    "economic_damage_usd": 827872491.23,
+    "location": "Gujarat",
+    "magnitude": 8.3,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 273,
+    "date": "2007-01-15",
+    "economic_damage_usd": 843335318.47,
+    "location": "Andhra Pradesh",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4501,
+    "date": "2018-10-13",
+    "economic_damage_usd": 21614564.65,
+    "location": "West Bengal",
+    "type": "Flood"
+  },
+  {
+    "casualties": 4094,
+    "date": "2008-06-04",
+    "economic_damage_usd": 816146824.05,
+    "location": "West Bengal",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1087,
+    "date": "2004-01-01",
+    "economic_damage_usd": 126590000.03,
+    "location": "Assam",
+    "magnitude": 5.5,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 4071,
+    "date": "2021-09-29",
+    "economic_damage_usd": 646359486.98,
+    "location": "Maharashtra",
+    "type": "Drought"
+  },
+  {
+    "casualties": 1699,
+    "date": "2013-03-26",
+    "economic_damage_usd": 374596680.77,
+    "location": "Andhra Pradesh",
+    "magnitude": 4.1,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1758,
+    "date": "2002-11-19",
+    "economic_damage_usd": 194026086.84,
+    "location": "Assam",
+    "magnitude": 7.4,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1210,
+    "date": "2015-02-03",
+    "economic_damage_usd": 332817100.86,
+    "location": "Kerala",
+    "magnitude": 8.3,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2355,
+    "date": "2002-12-22",
+    "economic_damage_usd": 849355554.24,
+    "location": "Assam",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1270,
+    "date": "2017-07-09",
+    "economic_damage_usd": 103097721.59,
+    "location": "Tamil Nadu",
+    "magnitude": 8.5,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4557,
+    "date": "2023-06-07",
+    "economic_damage_usd": 122087958.69,
+    "location": "Gujarat",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3205,
+    "date": "2019-12-01",
+    "economic_damage_usd": 358204003.82,
+    "location": "Kerala",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1364,
+    "date": "2024-09-13",
+    "economic_damage_usd": 75275167.51,
+    "location": "Odisha",
+    "magnitude": 6,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1118,
+    "date": "2008-06-02",
+    "economic_damage_usd": 894639991.07,
+    "location": "Tamil Nadu",
+    "magnitude": 4,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4673,
+    "date": "2001-12-16",
+    "economic_damage_usd": 460872164.12,
+    "location": "Karnataka",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3200,
+    "date": "2011-10-27",
+    "economic_damage_usd": 48892045.72,
+    "location": "Assam",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2863,
+    "date": "2004-03-26",
+    "economic_damage_usd": 909299653.36,
+    "location": "Odisha",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 2037,
+    "date": "2005-01-06",
+    "economic_damage_usd": 308296137.75,
+    "location": "Tamil Nadu",
+    "magnitude": 6.3,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 1335,
+    "date": "2010-03-26",
+    "economic_damage_usd": 664837492.87,
+    "location": "Karnataka",
+    "type": "Flood"
+  },
+  {
+    "casualties": 118,
+    "date": "2016-10-18",
+    "economic_damage_usd": 114429718.86,
+    "location": "Gujarat",
+    "magnitude": 5.4,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4897,
+    "date": "2005-05-03",
+    "economic_damage_usd": 845077884.19,
+    "location": "Bihar",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4056,
+    "date": "2011-07-24",
+    "economic_damage_usd": 245047212.25,
+    "location": "Maharashtra",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 2086,
+    "date": "2013-07-09",
+    "economic_damage_usd": 264225801.33,
+    "location": "Gujarat",
+    "magnitude": 5.6,
+    "type": "Flood"
+  },
+  {
+    "casualties": 547,
+    "date": "2019-02-11",
+    "economic_damage_usd": 639264367.03,
+    "location": "Assam",
+    "magnitude": 8.9,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 403,
+    "date": "2002-07-05",
+    "economic_damage_usd": 278021035.42,
+    "location": "Odisha",
+    "magnitude": 4.3,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1094,
+    "date": "2005-04-12",
+    "economic_damage_usd": 978175724.97,
+    "location": "Karnataka",
+    "magnitude": 8.9,
+    "type": "Drought"
+  },
+  {
+    "casualties": 3069,
+    "date": "2002-02-04",
+    "economic_damage_usd": 217970586.54,
+    "location": "Bihar",
+    "magnitude": 5.3,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3283,
+    "date": "2024-12-24",
+    "economic_damage_usd": 887740163.33,
+    "location": "Maharashtra",
+    "magnitude": 6.5,
+    "type": "Flood"
+  },
+  {
+    "casualties": 1573,
+    "date": "2004-09-17",
+    "economic_damage_usd": 229445945.09,
+    "location": "Tamil Nadu",
+    "type": "Drought"
+  },
+  {
+    "casualties": 529,
+    "date": "2011-01-25",
+    "economic_damage_usd": 666585634.23,
+    "location": "Maharashtra",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 1729,
+    "date": "2021-06-01",
+    "economic_damage_usd": 462174852.72,
+    "location": "Gujarat",
+    "magnitude": 4.3,
+    "type": "Drought"
+  },
+  {
+    "casualties": 2029,
+    "date": "2002-10-18",
+    "economic_damage_usd": 267718855.11,
+    "location": "Tamil Nadu",
+    "magnitude": 8.7,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1388,
+    "date": "2014-09-11",
+    "economic_damage_usd": 544603647.75,
+    "location": "Bihar",
+    "magnitude": 6.1,
+    "type": "Drought"
+  },
+  {
+    "casualties": 273,
+    "date": "2004-01-22",
+    "economic_damage_usd": 742517008.62,
+    "location": "Maharashtra",
+    "magnitude": 8.1,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3985,
+    "date": "2004-07-28",
+    "economic_damage_usd": 488601875.09,
+    "location": "Kerala",
+    "magnitude": 6.1,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1945,
+    "date": "2015-12-27",
+    "economic_damage_usd": 948765189.73,
+    "location": "Odisha",
+    "magnitude": 7.1,
+    "type": "Flood"
+  },
+  {
+    "casualties": 36,
+    "date": "2001-11-11",
+    "economic_damage_usd": 980893357.24,
+    "location": "West Bengal",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 2306,
+    "date": "2005-04-11",
+    "economic_damage_usd": 32103650.46,
+    "location": "Andhra Pradesh",
+    "type": "Drought"
+  },
+  {
+    "casualties": 3361,
+    "date": "2016-03-07",
+    "economic_damage_usd": 934891386.57,
+    "location": "Maharashtra",
+    "type": "Flood"
+  },
+  {
+    "casualties": 896,
+    "date": "2021-11-21",
+    "economic_damage_usd": 694634960.61,
+    "location": "West Bengal",
+    "type": "Drought"
+  },
+  {
+    "casualties": 772,
+    "date": "2013-08-21",
+    "economic_damage_usd": 573941825.08,
+    "location": "Odisha",
+    "magnitude": 5.7,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 1443,
+    "date": "2010-01-28",
+    "economic_damage_usd": 72983853.54,
+    "location": "Tamil Nadu",
+    "type": "Drought"
+  },
+  {
+    "casualties": 1827,
+    "date": "2010-03-15",
+    "economic_damage_usd": 140474970.46,
+    "location": "Bihar",
+    "type": "Drought"
+  },
+  {
+    "casualties": 1383,
+    "date": "2010-08-27",
+    "economic_damage_usd": 885027970.4,
+    "location": "West Bengal",
+    "magnitude": 5.8,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2401,
+    "date": "2006-01-19",
+    "economic_damage_usd": 536006343.71,
+    "location": "Bihar",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4829,
+    "date": "2005-05-14",
+    "economic_damage_usd": 633628708.65,
+    "location": "Maharashtra",
+    "magnitude": 5.1,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1567,
+    "date": "2017-02-24",
+    "economic_damage_usd": 456268986.76,
+    "location": "Bihar",
+    "type": "Drought"
+  },
+  {
+    "casualties": 2163,
+    "date": "2015-01-06",
+    "economic_damage_usd": 556896150.6,
+    "location": "Kerala",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 28,
+    "date": "2008-07-18",
+    "economic_damage_usd": 747850323.82,
+    "location": "West Bengal",
+    "magnitude": 8.2,
+    "type": "Flood"
+  },
+  {
+    "casualties": 2209,
+    "date": "2017-02-12",
+    "economic_damage_usd": 743096338.23,
+    "location": "Gujarat",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4611,
+    "date": "2006-04-26",
+    "economic_damage_usd": 331005158.93,
+    "location": "Odisha",
+    "magnitude": 7,
+    "type": "Drought"
+  },
+  {
+    "casualties": 4476,
+    "date": "2001-01-01",
+    "economic_damage_usd": 92193735.11,
+    "location": "Andhra Pradesh",
+    "type": "Drought"
+  },
+  {
+    "casualties": 1481,
+    "date": "2001-01-18",
+    "economic_damage_usd": 575244690.46,
+    "location": "West Bengal",
+    "magnitude": 5.9,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2970,
+    "date": "2018-04-28",
+    "economic_damage_usd": 668030992.61,
+    "location": "Gujarat",
+    "magnitude": 4.1,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 1158,
+    "date": "2019-03-27",
+    "economic_damage_usd": 900657398.65,
+    "location": "Karnataka",
+    "magnitude": 4.3,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 615,
+    "date": "2005-10-05",
+    "economic_damage_usd": 227050234.52,
+    "location": "Gujarat",
+    "magnitude": 5.2,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1771,
+    "date": "2010-08-10",
+    "economic_damage_usd": 286768445.55,
+    "location": "Tamil Nadu",
+    "magnitude": 7.1,
+    "type": "Flood"
+  },
+  {
+    "casualties": 2332,
+    "date": "2002-03-15",
+    "economic_damage_usd": 449986633.95,
+    "location": "Maharashtra",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3913,
+    "date": "2018-08-14",
+    "economic_damage_usd": 555916326.93,
+    "location": "Odisha",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1917,
+    "date": "2019-12-30",
+    "economic_damage_usd": 463995649.13,
+    "location": "Andhra Pradesh",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 2733,
+    "date": "2019-09-28",
+    "economic_damage_usd": 414988233.47,
+    "location": "Karnataka",
+    "magnitude": 7.4,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1251,
+    "date": "2021-05-26",
+    "economic_damage_usd": 960266756.18,
+    "location": "Gujarat",
+    "magnitude": 6.1,
+    "type": "Drought"
+  },
+  {
+    "casualties": 1070,
+    "date": "2013-05-18",
+    "economic_damage_usd": 878817111.88,
+    "location": "Bihar",
+    "magnitude": 7.7,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1313,
+    "date": "2010-05-14",
+    "economic_damage_usd": 843237444.61,
+    "location": "West Bengal",
+    "type": "Flood"
+  },
+  {
+    "casualties": 552,
+    "date": "2003-09-11",
+    "economic_damage_usd": 319935611.07,
+    "location": "Tamil Nadu",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 4334,
+    "date": "2017-04-21",
+    "economic_damage_usd": 281927962.94,
+    "location": "Karnataka",
+    "magnitude": 6.8,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3027,
+    "date": "2004-01-14",
+    "economic_damage_usd": 19021245.39,
+    "location": "West Bengal",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4964,
+    "date": "2011-01-07",
+    "economic_damage_usd": 341088043.81,
+    "location": "Andhra Pradesh",
+    "magnitude": 4.5,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 2133,
+    "date": "2010-07-04",
+    "economic_damage_usd": 339137405.03,
+    "location": "Maharashtra",
+    "magnitude": 5.4,
+    "type": "Flood"
+  },
+  {
+    "casualties": 3711,
+    "date": "2012-02-06",
+    "economic_damage_usd": 389004764.55,
+    "location": "Maharashtra",
+    "magnitude": 7.1,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 220,
+    "date": "2016-04-06",
+    "economic_damage_usd": 568287008.83,
+    "location": "Assam",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 741,
+    "date": "2022-06-05",
+    "economic_damage_usd": 796706071.34,
+    "location": "Andhra Pradesh",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3478,
+    "date": "2009-12-02",
+    "economic_damage_usd": 376532282.66,
+    "location": "West Bengal",
+    "magnitude": 4,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 112,
+    "date": "2013-12-16",
+    "economic_damage_usd": 358273135.63,
+    "location": "Odisha",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3373,
+    "date": "2023-05-10",
+    "economic_damage_usd": 566934705.43,
+    "location": "Kerala",
+    "magnitude": 6.5,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 850,
+    "date": "2009-01-05",
+    "economic_damage_usd": 316628352.63,
+    "location": "Karnataka",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 3252,
+    "date": "2008-10-16",
+    "economic_damage_usd": 287681780.88,
+    "location": "Assam",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 2563,
+    "date": "2007-05-26",
+    "economic_damage_usd": 487173511.23,
+    "location": "Andhra Pradesh",
+    "type": "Drought"
+  },
+  {
+    "casualties": 2,
+    "date": "2004-05-25",
+    "economic_damage_usd": 272528548.19,
+    "location": "Bihar",
+    "type": "Drought"
+  },
+  {
+    "casualties": 3034,
+    "date": "2023-10-27",
+    "economic_damage_usd": 22440952.49,
+    "location": "Odisha",
+    "magnitude": 7.2,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 3875,
+    "date": "2013-11-15",
+    "economic_damage_usd": 540528632.85,
+    "location": "Kerala",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 946,
+    "date": "2017-03-10",
+    "economic_damage_usd": 20774157.62,
+    "location": "Gujarat",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 186,
+    "date": "2004-12-20",
+    "economic_damage_usd": 124589326.13,
+    "location": "Odisha",
+    "type": "Drought"
+  },
+  {
+    "casualties": 4769,
+    "date": "2014-01-08",
+    "economic_damage_usd": 730687197.65,
+    "location": "Bihar",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 4595,
+    "date": "2014-11-16",
+    "economic_damage_usd": 358580393.16,
+    "location": "Maharashtra",
+    "magnitude": 7.8,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 507,
+    "date": "2019-03-26",
+    "economic_damage_usd": 771184710.26,
+    "location": "Andhra Pradesh",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 4211,
+    "date": "2001-01-23",
+    "economic_damage_usd": 818325202.49,
+    "location": "Karnataka",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2407,
+    "date": "2001-01-18",
+    "economic_damage_usd": 782697292.01,
+    "location": "Karnataka",
+    "magnitude": 4.3,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 409,
+    "date": "2006-08-13",
+    "economic_damage_usd": 702880155.37,
+    "location": "Assam",
+    "type": "Landslide"
+  },
+  {
+    "casualties": 22,
+    "date": "2024-12-19",
+    "economic_damage_usd": 808962422.21,
+    "location": "Andhra Pradesh",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 4695,
+    "date": "2002-02-14",
+    "economic_damage_usd": 243763135.84,
+    "location": "Kerala",
+    "magnitude": 5.9,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 4842,
+    "date": "2009-12-27",
+    "economic_damage_usd": 211623173.62,
+    "location": "Karnataka",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 146,
+    "date": "2019-02-13",
+    "economic_damage_usd": 563469147.07,
+    "location": "Assam",
+    "magnitude": 6.5,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 673,
+    "date": "2024-07-10",
+    "economic_damage_usd": 770635665.98,
+    "location": "West Bengal",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 220,
+    "date": "2009-12-29",
+    "economic_damage_usd": 142400693.58,
+    "location": "Assam",
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 3649,
+    "date": "2022-02-28",
+    "economic_damage_usd": 727785675.03,
+    "location": "West Bengal",
+    "magnitude": 6,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4068,
+    "date": "2001-03-18",
+    "economic_damage_usd": 341789564.59,
+    "location": "West Bengal",
+    "magnitude": 4.6,
+    "type": "Landslide"
+  },
+  {
+    "casualties": 1490,
+    "date": "2006-12-06",
+    "economic_damage_usd": 532769164.52,
+    "location": "Maharashtra",
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3599,
+    "date": "2012-12-30",
+    "economic_damage_usd": 746797683.44,
+    "location": "Gujarat",
+    "magnitude": 8.9,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 1602,
+    "date": "2022-11-25",
+    "economic_damage_usd": 990024064.96,
+    "location": "Gujarat",
+    "type": "Drought"
+  },
+  {
+    "casualties": 1989,
+    "date": "2018-09-27",
+    "economic_damage_usd": 811116037.88,
+    "location": "West Bengal",
+    "magnitude": 6.8,
+    "type": "Flood"
+  },
+  {
+    "casualties": 885,
+    "date": "2024-07-15",
+    "economic_damage_usd": 151059036.49,
+    "location": "Andhra Pradesh",
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2158,
+    "date": "2000-02-14",
+    "economic_damage_usd": 197622104.89,
+    "location": "Andhra Pradesh",
+    "magnitude": 8.2,
+    "type": "Flood"
+  },
+  {
+    "casualties": 613,
+    "date": "2011-06-15",
+    "economic_damage_usd": 28251744.96,
+    "location": "Maharashtra",
+    "magnitude": 6,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4170,
+    "date": "2005-10-09",
+    "economic_damage_usd": 320088781.55,
+    "location": "Maharashtra",
+    "type": "Drought"
+  },
+  {
+    "casualties": 706,
+    "date": "2016-10-29",
+    "economic_damage_usd": 802774708.22,
+    "location": "Odisha",
+    "magnitude": 8.1,
+    "type": "Cyclone"
+  },
+  {
+    "casualties": 3029,
+    "date": "2007-02-05",
+    "economic_damage_usd": 643491608.65,
+    "location": "Bihar",
+    "type": "Drought"
+  },
+  {
+    "casualties": 3855,
+    "date": "2021-01-04",
+    "economic_damage_usd": 208835374.25,
+    "location": "Tamil Nadu",
+    "magnitude": 6.3,
+    "type": "Earthquake"
+  },
+  {
+    "casualties": 112,
+    "date": "2010-09-04",
+    "economic_damage_usd": 579680877.86,
+    "location": "Gujarat",
+    "magnitude": 7.5,
+    "type": "Flood"
+  },
+  {
+    "casualties": 3569,
+    "date": "2011-11-22",
+    "economic_damage_usd": 288248394.54,
+    "location": "Kerala",
+    "magnitude": 8,
+    "type": "Flood"
+  },
+  {
+    "casualties": 1585,
+    "date": "2021-06-08",
+    "economic_damage_usd": 789991275.15,
+    "location": "Karnataka",
+    "magnitude": 7,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 2826,
+    "date": "2009-01-13",
+    "economic_damage_usd": 910456077.21,
+    "location": "Gujarat",
+    "magnitude": 4.3,
+    "type": "Tsunami"
+  },
+  {
+    "casualties": 4992,
+    "date": "2018-07-06",
+    "economic_damage_usd": 435580406.84,
+    "location": "Bihar",
+    "type": "Flood"
+  },
+  {
+    "casualties": 450,
+    "date": "2022-04-06",
+    "economic_damage_usd": 731478578.78,
+    "location": "Maharashtra",
+    "magnitude": 8.4,
+    "type": "Tsunami"
+  }
+]

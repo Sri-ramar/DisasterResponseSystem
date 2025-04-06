@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Disaster Response System</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Centralized Disaster Response System</h1>
+    <button id="enterButton">ENTER SYSTEM</button>
+  </div>
+  <audio id="clickSound" src="static/click.mp3"></audio>
+  <script>
+    document.getElementById('enterButton').addEventListener('click', () => {
+      document.getElementById('clickSound').play();
+      alert("Welcome to the prototype!");
+    });
+  </script>
+</body>
+</html>

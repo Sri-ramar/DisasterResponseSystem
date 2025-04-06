@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Disaster Risk Prediction</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="sidebar">
+    <h2>States / Regions</h2>
+    <ul>
+      <li>Andhra Pradesh</li>
+      <li>Arunachal Pradesh</li>
+      <li>Assam</li>
+      <li>Bihar</li>
+      <li>Chhattisgarh</li>
+      <li>Goa</li>
+      <li>Gujarat</li>
+      <li>Haryana</li>
+      <li>Himachal Pradesh</li>
+      <li>Jharkhand</li>
+      <li>Karnataka</li>
+      <li>Kerala</li>
+      <li>Madhya Pradesh</li>
+      <li>Maharashtra</li>
+      <li>Manipur</li>
+      <li>Meghalaya</li>
+      <li>Mizoram</li>
+      <li>Nagaland</li>
+      <li>Odisha</li>
+      <li>Punjab</li>
+      <li>Rajasthan</li>
+      <li>Sikkim</li>
+      <li>Tamil Nadu</li>
+      <li>Telangana</li>
+      <li>Tripura</li>
+      <li>Uttar Pradesh</li>
+      <li>Uttarakhand</li>
+      <li>West Bengal</li>
+    </ul>
+  </div>
+
+  <div class="main">
+    <h1>AI Disaster Risk Prediction</h1>
+    <form id="predictionForm">
+      <input type="text" id="region" placeholder="Enter Region (e.g. Assam)" required>
+
+      <label for="month" class="month-label">Select Month:</label>
+      <select id="month">
+        <option value="1">January</option><option value="2">February</option>
+        <option value="3">March</option><option value="4">April</option>
+        <option value="5">May</option><option value="6">June</option>
+        <option value="7">July</option><option value="8">August</option>
+        <option value="9">September</option><option value="10">October</option>
+        <option value="11">November</option><option value="12">December</option>
+      </select>
+
+      <button type="submit" onclick="playClick()">Predict</button>
+    </form>
+
+    <div id="result"></div>
+
+    <div class="cartoon-box">
+      👨‍💻 AI Analyst working...
+    </div>
+
+    <audio id="clickSound" src="../assets/click.mp3" preload="auto"></audio>
+  </div>
+
+  <script>
+    function playClick() {
+      document.getElementById('clickSound').play();
+    }
+
+    document.getElementById('predictionForm').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const region = document.getElementById('region').value;
+      const month = document.getElementById('month').value;
+
+      const response = await fetch('http://localhost:5000/api/predict', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ region, month })
+      });
+
+      const data = await response.json();
+      if (data.error) {
+        document.getElementById('result').innerText = "Error: " + data.error;
+      } else {
+        document.getElementById('result').innerText = `⚠️ Risk in ${data.region} for month ${data.month}: ${data.risk_level} (Past: ${data.historical_count})`;
+      }
+    });
+  </script>
+
+</body>
+</html>
