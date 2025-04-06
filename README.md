@@ -7,10 +7,9 @@ It replaces Firebase and Gemini with a custom backend + AI logic, built for lear
 
 🎓 SUBMISSION TYPE: Working MVP prototype for academic presentation
 
-🧑‍💻 BUILT BY: [Your Name]
+🧑‍💻 BUILT BY: [CryptoVerse]
 
 ————————————————————————
-🗂 WHAT'S INCLUDED IN THIS PROJECT ZIP
 ————————————————————————
 
 1. 📦 /backend/
@@ -97,10 +96,4 @@ If you want to deploy this project online:
 - AI predictions are basic — built using historical frequency
 - All reports and predictions save to local JSON + Excel
 
-————————————————————————
-📬 QUESTIONS?
-————————————————————————
-
-This is a beginner prototype — ask your professor for feedback!
-
-Good luck 😄
+---- JUST A PROTOTYPE NEXTTIME WE WILL TRY TO BRING ONLINE WITH FIREBASE AND GEMINI ----------
